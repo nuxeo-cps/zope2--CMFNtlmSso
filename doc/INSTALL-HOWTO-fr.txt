@@ -1,5 +1,10 @@
 Installation
 
+  Attention : 
+
+    N'installez pas ce produit si vous n'avez pas besoin du SSO NTLM avec
+    Active Directory
+
   Produits a installer :
 
     - LDAPUserGroupsFolder (>=2.5.0)

@@ -1,5 +1,9 @@
 Installation
 
+  Warning :
+
+    Don't install this product if you don't need NTLM SSO with Active Directory
+
   Depends products :
 
     - LDAPUserGroupsFolder (>=2.5.0-1)
